@@ -11,7 +11,7 @@ const INFO = {
   phone: '+56 9 4423 3619',
   github: 'https://github.com/ortizdgr',
   linkedin: 'https://www.linkedin.com/in/ortizdgr',
-  cvUrl: '#', // Agrega tu enlace al CV
+  cvUrl: '/cv-myriam-ortiz.pdf',
   bio: 'Desarrolladora frontend con base en diseño. Trabajo con React, Vite y Tailwind; integro servicios backend (Firebase, APIs REST) y aplico accesibilidad y usabilidad para crear interfaces modernas y escalables.',
 }
 
